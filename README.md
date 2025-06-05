@@ -1,2 +1,3 @@
-# hands_on_ml
-Code from the book Hands-on Machine Learning
+# Hands-on Machine Learning
+
+> Code from the book Hands-on Machine Learning
